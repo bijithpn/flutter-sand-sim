@@ -2,6 +2,12 @@
 
 This project is a simple sand simulation built with Flutter, where users can "pour" sand particles that fall and settle, forming a natural, mountain-like sediment pattern. The particles fall under simulated gravity and accumulate at the bottom, creating an interactive and visually appealing effect.
 
+## Screenshot
+
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/bijithpn/flutter-sand-sim/d7121e7c8c9c8228cb70c37bf30f24803437794a/screenshot/video.mp4" type="video/mp4">
+</video>
+
 ## Project Structure
 
 The project has two main components:
