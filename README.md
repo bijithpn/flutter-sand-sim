@@ -4,9 +4,7 @@ This project is a simple sand simulation built with Flutter, where users can "po
 
 ## Screenshot
 
-<video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/bijithpn/flutter-sand-sim/d7121e7c8c9c8228cb70c37bf30f24803437794a/screenshot/video.mp4" type="video/mp4">
-</video>
+<img src="https://github.com/bijithpn/flutter-sand-sim/blob/main/screenshot/video.gif" alt="sand sim" width="900"/>
 
 ## Project Structure
 
@@ -45,5 +43,3 @@ This project was built just for fun, and there's still plenty of room for optimi
 - Improve the simulation speed, especially for larger grids.
 - Refine particle movement for smoother transitions.
 - Enhance visual effects with shading and more granular physics.
-
-  The simulation runs on an `AnimationController`, which triggers updates to the grid at regular intervals, creating a real-time animation effect.
